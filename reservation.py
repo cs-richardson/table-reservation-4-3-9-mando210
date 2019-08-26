@@ -9,6 +9,6 @@ name = str(input("Name: "))
 reservation_name= "Ando"
 
 if name == reservation_name:
-    print "Right this way!"
+    print ("Right this way!")
 else:
-    print "Sorry, we don't have a reservation under that name"
+    print ("Sorry, we don't have a reservation under that name")
